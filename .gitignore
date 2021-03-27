@@ -1,0 +1,9 @@
+#Ignore .directory file - файлы не заливаются в репозитарий
+.directory
+
+#ignore .new_empty folder/
+.new_empty folder/
+
+ignore file1.txt
+
+ignore file2.txt
