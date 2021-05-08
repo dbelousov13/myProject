@@ -44,3 +44,25 @@ console.log("roots :>> ", roots);
 function SquareEquation(koren) {
   return Math.sqrt(koren);
 }
+
+/******************* */
+function f() {
+  return 5;
+}
+
+constnewFunction = f;
+
+// function expression
+
+const sum2 = function (a, b) {
+  return a + b;
+};
+alert(sum2(2, 4));
+
+/********** */
+
+const deg05 = function (a) {
+  return a ** 4;
+};
+
+console.log("deg04 :>> ", deg4(2));
