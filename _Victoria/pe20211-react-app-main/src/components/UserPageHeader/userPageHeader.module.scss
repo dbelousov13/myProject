@@ -1,0 +1,16 @@
+* {
+  padding: 15px;
+}
+.headerDiv {
+  height: 130px;
+  text-align: center;
+  border: 1px solid darkgray;
+  background-color: lightgray;
+
+  & > img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+}
